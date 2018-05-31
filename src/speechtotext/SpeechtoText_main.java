@@ -15,7 +15,7 @@ public class SpeechtoText_main {
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
 		 SpeechToText service = new SpeechToText();
-		 service.setUsernameAndPassword("7bf2a504-26e0-4e66-93a8-d7b417432ac1", "aaVxbPjYkkbT");
+		 service.setUsernameAndPassword("j16005", "j16005");
 
 		    File audio = new File("./audio/output.wav");
 		    RecognizeOptions options =null;
